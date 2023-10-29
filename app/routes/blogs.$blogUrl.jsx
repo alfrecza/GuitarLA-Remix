@@ -43,6 +43,7 @@ function Blog() {
             <p className="fecha">{formatearFecha(publishedAt)}</p>
             <p className="texto">{contenido}</p>
         </div>
+        <a href="/blog" className="buttonVolver">Volver</a>
     </article>
   )
 }
