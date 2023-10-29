@@ -1,7 +1,5 @@
 ##  Proyecto GuitarLA
 
-## Development
-
 From your terminal:
 
 ```sh
