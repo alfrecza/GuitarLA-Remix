@@ -1,0 +1,10 @@
+.alertaError {
+    background-color: rgb(228, 57, 57);
+    text-align: center;
+    padding: .8rem;
+    border-radius: .5rem;
+    color: whi;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: white;
+}
